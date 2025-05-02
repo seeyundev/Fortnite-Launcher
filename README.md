@@ -1,2 +1,2 @@
 # Fortnite-Launcher-
-Fortnite Launcher for OGFN versions
+Fortnite Launcher for OGFN versions(soon)
